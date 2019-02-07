@@ -1,7 +1,4 @@
 accuracy score,comment,team_name,members,method
-0.0522,N/A,test-test_team,xinyatest,maxent
-0.0522,N/A,test-test_team,xinyatest,mlp
-0.0522,N/A,test-test_team,xinyatest,perceptron
 0.0522,N/A,test_team,xinyatest,maxent
 0.0522,N/A,test_team,xinyatest,mlp
 0.0522,N/A,test_team,xinyatest,perceptron
