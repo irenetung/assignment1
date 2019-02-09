@@ -57,10 +57,10 @@ def load_data(args):
     data_type = ""
     if 'propername' in args:
       data_loader = propername_data_loader
-      data_type = "propername"
+      data_type = "propernames"
     elif 'newsgroup' in args:
       data_loader = newsgroup_data_loader
-      data_type = "newsgroup"
+      data_type = "newsgroups"
     assert data_loader, "Choose between newsgroup or propername data. " \
                         + "Args was: " + str(args)
 
