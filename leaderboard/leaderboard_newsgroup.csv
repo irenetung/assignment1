@@ -23,3 +23,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,team,StevenWooooo,maxent
 0.0522,N/A,team,StevenWooooo,mlp
 0.0522,N/A,team,StevenWooooo,perceptron
+0.0522,N/A,lang,anastasisbele|cyzanfar,maxent
+0.0522,N/A,lang,anastasisbele|cyzanfar,mlp
+0.0522,N/A,lang,anastasisbele|cyzanfar,perceptron
