@@ -20,9 +20,9 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,neural-linguistic-processing,dni138|wumpusman,maxent
 0.0522,N/A,neural-linguistic-processing,dni138|wumpusman,mlp
 0.0522,N/A,neural-linguistic-processing,dni138|wumpusman,perceptron
-0.0522,N/A,team,StevenWooooo,maxent
-0.0522,N/A,team,StevenWooooo,mlp
-0.0522,N/A,team,StevenWooooo,perceptron
+0.0522,N/A,team,StevenWooooo|advaitapatel,maxent
+0.0522,N/A,team,StevenWooooo|advaitapatel,mlp
+0.0522,N/A,team,StevenWooooo|advaitapatel,perceptron
 0.0522,N/A,lang,anastasisbele|cyzanfar,maxent
 0.0522,N/A,lang,anastasisbele|cyzanfar,mlp
 0.0522,N/A,lang,anastasisbele|cyzanfar,perceptron
