@@ -41,3 +41,15 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,dot-product,marikacusick|trallen91,maxent
 0.1723,N/A,dot-product,marikacusick|trallen91,mlp
 0.1723,N/A,dot-product,marikacusick|trallen91,perceptron
+0.1723,N/A,nlp-yong-kun,Rogerwlk|acneyouth1996,maxent
+0.1723,N/A,nlp-yong-kun,Rogerwlk|acneyouth1996,mlp
+0.1723,N/A,nlp-yong-kun,Rogerwlk|acneyouth1996,perceptron
+0.1723,N/A,kirinji,CherryBilberry|shawnwang95,maxent
+0.1723,N/A,kirinji,CherryBilberry|shawnwang95,mlp
+0.1723,N/A,kirinji,CherryBilberry|shawnwang95,perceptron
+0.1723,N/A,unsupervised-learners,joe83830|ren-e1011,maxent
+0.1723,N/A,unsupervised-learners,joe83830|ren-e1011,mlp
+0.1723,N/A,unsupervised-learners,joe83830|ren-e1011,perceptron
+0.1723,N/A,whatever,CeliaYao329|YeatsMar,maxent
+0.1723,N/A,whatever,CeliaYao329|YeatsMar,mlp
+0.1723,N/A,whatever,CeliaYao329|YeatsMar,perceptron
