@@ -5,9 +5,9 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,nlp_team,pkale,maxent
 0.0522,N/A,nlp_team,pkale,mlp
 0.0522,N/A,nlp_team,pkale,perceptron
-0.0522,N/A,nlp-johnny-keith,johnnykwwang,maxent
-0.0522,N/A,nlp-johnny-keith,johnnykwwang,mlp
-0.0522,N/A,nlp-johnny-keith,johnnykwwang,perceptron
+0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,maxent
+0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
+0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 0.0522,N/A,www,viannegao,maxent
 0.0522,N/A,www,viannegao,mlp
 0.0522,N/A,www,viannegao,perceptron
@@ -56,3 +56,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,nlp-y-j,Jingjing-Bai-WCM|skybluewing,maxent
 0.0522,N/A,nlp-y-j,Jingjing-Bai-WCM|skybluewing,mlp
 0.0522,N/A,nlp-y-j,Jingjing-Bai-WCM|skybluewing,perceptron
+0.0522,N/A,nonlinear-programming,migunasekera,maxent
+0.0522,N/A,nonlinear-programming,migunasekera,mlp
+0.0522,N/A,nonlinear-programming,migunasekera,perceptron
