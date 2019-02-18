@@ -1,4 +1,5 @@
 accuracy score,comment,team_name,members,method
+0.7055,N/A,jbit,irenetung|jillianjmb,perceptron
 0.0522,N/A,test_team,xinyatest,maxent
 0.0522,N/A,test_team,xinyatest,mlp
 0.0522,N/A,test_team,xinyatest,perceptron
@@ -28,7 +29,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,lang,anastasisbele|cyzanfar,perceptron
 0.0522,N/A,jbit,irenetung|jillianjmb,maxent
 0.0522,N/A,jbit,irenetung|jillianjmb,mlp
-0.0522,N/A,jbit,irenetung|jillianjmb,perceptron
 0.0522,N/A,statistically_proper,ShantanuPhadke|Vchabs,maxent
 0.0522,N/A,statistically_proper,ShantanuPhadke|Vchabs,mlp
 0.0522,N/A,statistically_proper,ShantanuPhadke|Vchabs,perceptron
