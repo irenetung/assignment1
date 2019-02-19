@@ -71,3 +71,9 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,weak-derivatives,anthonytec2|bzelditch,maxent
 0.0522,N/A,weak-derivatives,anthonytec2|bzelditch,mlp
 0.0522,N/A,weak-derivatives,anthonytec2|bzelditch,perceptron
+0.0522,N/A,queen,ckuang|omer921,maxent
+0.0522,N/A,queen,ckuang|omer921,mlp
+0.0522,N/A,queen,ckuang|omer921,perceptron
+0.0522,N/A,nlp-r-s,ryanfarr01|shainedl,maxent
+0.0522,N/A,nlp-r-s,ryanfarr01|shainedl,mlp
+0.0522,N/A,nlp-r-s,ryanfarr01|shainedl,perceptron
