@@ -1,5 +1,7 @@
 accuracy score,comment,team_name,members,method
 0.7561,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
+0.7551,N/A,statistically_proper,ShantanuPhadke|Vchabs,perceptron
+0.6066,N/A,unsupervised-learners,joe83830|ren-e1011,perceptron
 0.1723,N/A,test_team,xinyatest,maxent
 0.1723,N/A,test_team,xinyatest,mlp
 0.1723,N/A,test_team,xinyatest,perceptron
@@ -31,7 +33,6 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,jbit,irenetung|jillianjmb,perceptron
 0.1723,N/A,statistically_proper,ShantanuPhadke|Vchabs,maxent
 0.1723,N/A,statistically_proper,ShantanuPhadke|Vchabs,mlp
-0.1723,N/A,statistically_proper,ShantanuPhadke|Vchabs,perceptron
 0.1723,N/A,we-ve-kissed,SteffenBerlin|et435,maxent
 0.1723,N/A,we-ve-kissed,SteffenBerlin|et435,mlp
 0.1723,N/A,we-ve-kissed,SteffenBerlin|et435,perceptron
@@ -49,7 +50,6 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,kirinji,CherryBilberry|shawnwang95,perceptron
 0.1723,N/A,unsupervised-learners,joe83830|ren-e1011,maxent
 0.1723,N/A,unsupervised-learners,joe83830|ren-e1011,mlp
-0.1723,N/A,unsupervised-learners,joe83830|ren-e1011,perceptron
 0.1723,N/A,whatever,CeliaYao329|YeatsMar,maxent
 0.1723,N/A,whatever,CeliaYao329|YeatsMar,mlp
 0.1723,N/A,whatever,CeliaYao329|YeatsMar,perceptron
@@ -71,3 +71,9 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,weak-derivatives,anthonytec2|bzelditch,maxent
 0.1723,N/A,weak-derivatives,anthonytec2|bzelditch,mlp
 0.1723,N/A,weak-derivatives,anthonytec2|bzelditch,perceptron
+0.1723,N/A,queen,ckuang|omer921,maxent
+0.1723,N/A,queen,ckuang|omer921,mlp
+0.1723,N/A,queen,ckuang|omer921,perceptron
+0.1723,N/A,nlp-r-s,ryanfarr01|shainedl,maxent
+0.1723,N/A,nlp-r-s,ryanfarr01|shainedl,mlp
+0.1723,N/A,nlp-r-s,ryanfarr01|shainedl,perceptron
