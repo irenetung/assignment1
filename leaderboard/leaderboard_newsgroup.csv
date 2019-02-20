@@ -50,7 +50,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,unsupervised-learners,joe83830|ren-e1011,maxent
 0.0522,N/A,unsupervised-learners,joe83830|ren-e1011,mlp
 0.0522,N/A,unsupervised-learners,joe83830|ren-e1011,perceptron
-0.0522,N/A,whatever,CeliaYao329|YeatsMar,maxent
 0.0522,N/A,whatever,CeliaYao329|YeatsMar,mlp
 0.0522,N/A,whatever,CeliaYao329|YeatsMar,perceptron
 0.0522,N/A,nlp-y-j,Jingjing-Bai-WCM|skybluewing,maxent
@@ -77,3 +76,4 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,nlp-r-s,ryanfarr01|shainedl,maxent
 0.0522,N/A,nlp-r-s,ryanfarr01|shainedl,mlp
 0.0522,N/A,nlp-r-s,ryanfarr01|shainedl,perceptron
+0.0000,Err for main2/default,whatever,CeliaYao329|YeatsMar,maxent
