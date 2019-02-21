@@ -5,7 +5,7 @@ accuracy score,comment,team_name,members,method
 0.7561,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 0.7551,N/A,statistically_proper,ShantanuPhadke|Vchabs,perceptron
 0.6066,N/A,unsupervised-learners,joe83830|ren-e1011,perceptron
-0.2282,N/A,dot-product,marikacusick|trallen91,perceptron
+0.2278,N/A,dot-product,marikacusick|trallen91,perceptron
 0.1723,N/A,test_team,xinyatest,maxent
 0.1723,N/A,test_team,xinyatest,mlp
 0.1723,N/A,test_team,xinyatest,perceptron
