@@ -8,6 +8,9 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,nlp_team,pkale,maxent
 0.0522,N/A,nlp_team,pkale,mlp
 0.0522,N/A,nlp_team,pkale,perceptron
+0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,maxent
+0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
+0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 0.0522,N/A,www,viannegao,maxent
 0.0522,N/A,www,viannegao,mlp
 0.0522,N/A,www,viannegao,perceptron
@@ -79,7 +82,4 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,maxent
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,mlp
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,perceptron
-0.0000,Err for main/default,nlp-johnny-keith,johnnykwwang|keithyuck,maxent
-0.0000,Err for main/default,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
-0.0000,Err for main/default,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 -3.1416,Error with accuracy_score.,jbit,irenetung|jillianjmb,mlp
