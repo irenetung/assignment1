@@ -2,6 +2,9 @@ accuracy score,comment,team_name,members,method
 0.8170,N/A,whatever,CeliaYao329|YeatsMar,maxent
 0.7337,N/A,whatever,CeliaYao329|YeatsMar,perceptron
 0.7055,N/A,jbit,irenetung|jillianjmb,perceptron
+0.0522,N/A,test_team,xinyatest,maxent
+0.0522,N/A,test_team,xinyatest,mlp
+0.0522,N/A,test_team,xinyatest,perceptron
 0.0522,N/A,nlp_team,pkale,maxent
 0.0522,N/A,nlp_team,pkale,mlp
 0.0522,N/A,nlp_team,pkale,perceptron
@@ -79,7 +82,4 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,maxent
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,mlp
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,perceptron
-0.0000,Err for main/default,test_team,xinyatest,maxent
-0.0000,Err for main/default,test_team,xinyatest,mlp
-0.0000,Err for main/default,test_team,xinyatest,perceptron
 -3.1416,Error with accuracy_score.,jbit,irenetung|jillianjmb,mlp
