@@ -17,9 +17,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,salty_fish,wrymax|ziyuqiu,maxent
 0.0522,N/A,salty_fish,wrymax|ziyuqiu,mlp
 0.0522,N/A,salty_fish,wrymax|ziyuqiu,perceptron
-0.0522,N/A,have-to-land,ivy-yue|shakingkelly,maxent
-0.0522,N/A,have-to-land,ivy-yue|shakingkelly,mlp
-0.0522,N/A,have-to-land,ivy-yue|shakingkelly,perceptron
 0.0522,N/A,neural-linguistic-processing,dni138|wumpusman,maxent
 0.0522,N/A,neural-linguistic-processing,dni138|wumpusman,mlp
 0.0522,N/A,neural-linguistic-processing,dni138|wumpusman,perceptron
@@ -81,5 +78,8 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,maxent
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,mlp
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,perceptron
+0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,maxent
+0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,mlp
+0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,perceptron
 0.0000,Err for main/default,1,PeterXUYAOHAI|lifei96,perceptron
 -3.1416,Error with accuracy_score.,jbit,irenetung|jillianjmb,mlp
