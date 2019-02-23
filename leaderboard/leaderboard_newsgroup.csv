@@ -60,7 +60,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,nonlinear-programming,Sunnah|migunasekera,perceptron
 0.0522,N/A,1,PeterXUYAOHAI|lifei96,maxent
 0.0522,N/A,1,PeterXUYAOHAI|lifei96,mlp
-0.0522,N/A,1,PeterXUYAOHAI|lifei96,perceptron
 0.0522,N/A,nlp19,rh443453518|ys838,maxent
 0.0522,N/A,nlp19,rh443453518|ys838,mlp
 0.0522,N/A,nlp19,rh443453518|ys838,perceptron
@@ -82,4 +81,5 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,maxent
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,mlp
 0.0522,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,perceptron
+0.0000,Err for main/default,1,PeterXUYAOHAI|lifei96,perceptron
 -3.1416,Error with accuracy_score.,jbit,irenetung|jillianjmb,mlp
