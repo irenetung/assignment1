@@ -1,5 +1,6 @@
 accuracy score,comment,team_name,members,method
 0.8170,N/A,whatever,CeliaYao329|YeatsMar,maxent
+0.7444,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 0.7337,N/A,whatever,CeliaYao329|YeatsMar,perceptron
 0.7055,N/A,jbit,irenetung|jillianjmb,perceptron
 0.0522,N/A,test_team,xinyatest,maxent
@@ -10,7 +11,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,nlp_team,pkale,perceptron
 0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,maxent
 0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
-0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 0.0522,N/A,www,viannegao,maxent
 0.0522,N/A,www,viannegao,mlp
 0.0522,N/A,www,viannegao,perceptron
