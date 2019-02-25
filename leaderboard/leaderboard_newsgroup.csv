@@ -11,6 +11,9 @@ accuracy score,comment,team_name,members,method
 0.6937,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,perceptron
 0.3502,N/A,dot-product,marikacusick|trallen91,perceptron
 0.0835,N/A,have-to-land,ivy-yue|shakingkelly,mlp
+0.0522,N/A,test_team,xinyatest,maxent
+0.0522,N/A,test_team,xinyatest,mlp
+0.0522,N/A,test_team,xinyatest,perceptron
 0.0522,N/A,nlp_team,pkale,maxent
 0.0522,N/A,nlp_team,pkale,mlp
 0.0522,N/A,nlp_team,pkale,perceptron
@@ -83,6 +86,3 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,pj-party,Joloh13,maxent
 0.0522,N/A,pj-party,Joloh13,mlp
 0.0522,N/A,pj-party,Joloh13,perceptron
-0.0000,Err for main/default,test_team,xinyatest,maxent
-0.0000,Err for main/default,test_team,xinyatest,mlp
-0.0000,Err for main/default,test_team,xinyatest,perceptron
