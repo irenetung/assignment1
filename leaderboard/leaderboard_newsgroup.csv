@@ -28,6 +28,9 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,team,StevenWooooo|advaitapatel,maxent
 0.0522,N/A,team,StevenWooooo|advaitapatel,mlp
 0.0522,N/A,team,StevenWooooo|advaitapatel,perceptron
+0.0522,N/A,lang,anastasisbele|cyzanfar,maxent
+0.0522,N/A,lang,anastasisbele|cyzanfar,mlp
+0.0522,N/A,lang,anastasisbele|cyzanfar,perceptron
 0.0522,N/A,jbit,irenetung|jillianjmb,maxent
 0.0522,N/A,statistically_proper,ShantanuPhadke|Vchabs,maxent
 0.0522,N/A,statistically_proper,ShantanuPhadke|Vchabs,mlp
@@ -78,8 +81,5 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,pj-party,Joloh13|pkale,maxent
 0.0522,N/A,pj-party,Joloh13|pkale,mlp
 0.0522,N/A,pj-party,Joloh13|pkale,perceptron
-0.0000,Err for main/default,lang,anastasisbele|cyzanfar,maxent
-0.0000,Err for main/default,lang,anastasisbele|cyzanfar,mlp
-0.0000,Err for main/default,lang,anastasisbele|cyzanfar,perceptron
 -3.1416,Error with accuracy_score.,queen,ckuang|omer921,mlp
 -3.1416,Error with accuracy_score.,queen,ckuang|omer921,perceptron
