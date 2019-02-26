@@ -1,9 +1,7 @@
 accuracy score,comment,team_name,members,method
-0.8291,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,maxent
 0.8218,N/A,have-to-land,ivy-yue|shakingkelly,perceptron
 0.8218,N/A,whatever,CeliaYao329|YeatsMar,mlp
 0.8155,N/A,have-to-land,ivy-yue|shakingkelly,maxent
-0.8099,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 0.7966,N/A,1,PeterXUYAOHAI|lifei96,perceptron
 0.7816,N/A,statistically_proper,ShantanuPhadke|Vchabs,perceptron
 0.7774,N/A,queen,ckuang|omer921,perceptron
@@ -20,7 +18,6 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,test_team,xinyatest,maxent
 0.1723,N/A,test_team,xinyatest,mlp
 0.1723,N/A,test_team,xinyatest,perceptron
-0.1723,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
 0.1723,N/A,www,viannegao,maxent
 0.1723,N/A,www,viannegao,mlp
 0.1723,N/A,www,viannegao,perceptron
@@ -81,5 +78,8 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,pj-party,Joloh13|pkale,maxent
 0.1723,N/A,pj-party,Joloh13|pkale,mlp
 0.1723,N/A,pj-party,Joloh13|pkale,perceptron
+0.0000,Err for main/default,nlp-johnny-keith,johnnykwwang|keithyuck,maxent
+0.0000,Err for main/default,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
+0.0000,Err for main/default,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 0.0000,Err for main2/default,team,StevenWooooo|advaitapatel,mlp
 0.0000,Err for main2/default,team,StevenWooooo|advaitapatel,perceptron
