@@ -18,9 +18,6 @@ accuracy score,comment,team_name,members,method
 0.6041,N/A,have-to-land,ivy-yue|shakingkelly,perceptron
 0.5508,N/A,dot-product,marikacusick|trallen91,perceptron
 0.0522,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
-0.0522,N/A,www,viannegao,maxent
-0.0522,N/A,www,viannegao,mlp
-0.0522,N/A,www,viannegao,perceptron
 0.0522,N/A,salty_fish,wrymax|ziyuqiu,maxent
 0.0522,N/A,salty_fish,wrymax|ziyuqiu,mlp
 0.0522,N/A,neural-linguistic-processing,dni138|wumpusman,maxent
@@ -80,3 +77,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,pj-party,Joloh13|pkale,maxent
 0.0522,N/A,pj-party,Joloh13|pkale,mlp
 0.0522,N/A,pj-party,Joloh13|pkale,perceptron
+0.0000,Err for main/default,www,viannegao,maxent
+0.0000,Err for main/default,www,viannegao,mlp
+0.0000,Err for main/default,www,viannegao,perceptron
