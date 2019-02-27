@@ -23,9 +23,6 @@ accuracy score,comment,team_name,members,method
 0.5800,N/A,jbit,irenetung|jillianjmb,maxent
 0.2142,N/A,bingsboys,MattD18|wario123,perceptron
 0.1723,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
-0.1723,N/A,www,viannegao,maxent
-0.1723,N/A,www,viannegao,mlp
-0.1723,N/A,www,viannegao,perceptron
 0.1723,N/A,salty_fish,wrymax|ziyuqiu,maxent
 0.1723,N/A,neural-linguistic-processing,dni138|wumpusman,maxent
 0.1723,N/A,neural-linguistic-processing,dni138|wumpusman,mlp
@@ -79,4 +76,7 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,pj-party,Joloh13|pkale,maxent
 0.1723,N/A,pj-party,Joloh13|pkale,mlp
 0.1723,N/A,pj-party,Joloh13|pkale,perceptron
+0.0000,Err for main/default,www,viannegao,maxent
+0.0000,Err for main/default,www,viannegao,mlp
+0.0000,Err for main/default,www,viannegao,perceptron
 0.0000,Err for main2/default,team,StevenWooooo|advaitapatel,perceptron
