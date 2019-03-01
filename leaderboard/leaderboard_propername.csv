@@ -2,8 +2,11 @@ accuracy score,comment,team_name,members,method
 0.8553,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,maxent
 0.8546,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,mlp
 0.8526,N/A,despacitos,dhachuel|lsharir,perceptron
+0.8428,N/A,have-to-land,ivy-yue|shakingkelly,mlp
 0.8424,N/A,team,StevenWooooo|advaitapatel,mlp
+0.8354,N/A,have-to-land,ivy-yue|shakingkelly,perceptron
 0.8344,N/A,salty_fish,wrymax|ziyuqiu,perceptron
+0.8340,N/A,have-to-land,ivy-yue|shakingkelly,maxent
 0.8249,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
 0.8218,N/A,whatever,CeliaYao329|YeatsMar,mlp
 0.8211,N/A,statistically_proper,ShantanuPhadke|Vchabs,perceptron
@@ -77,6 +80,3 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,pj-party,Joloh13|pkale,maxent
 0.1723,N/A,pj-party,Joloh13|pkale,mlp
 0.1723,N/A,pj-party,Joloh13|pkale,perceptron
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,maxent
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,mlp
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,perceptron
