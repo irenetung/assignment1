@@ -4,6 +4,7 @@ accuracy score,comment,team_name,members,method
 0.8298,N/A,whatever,CeliaYao329|YeatsMar,mlp
 0.8290,N/A,1,PeterXUYAOHAI|lifei96,perceptron
 0.8290,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,mlp
+0.8237,N/A,have-to-land,ivy-yue|shakingkelly,mlp
 0.8218,N/A,whatever,CeliaYao329|YeatsMar,maxent
 0.8178,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,mlp
 0.8156,N/A,jbit,irenetung|jillianjmb,mlp
@@ -37,7 +38,9 @@ accuracy score,comment,team_name,members,method
 0.6995,N/A,statistically_proper,ShantanuPhadke|Vchabs,perceptron
 0.6960,N/A,weak-derivatives,anthonytec2|bzelditch,perceptron
 0.6921,N/A,lang,anastasisbele|ccweaver1|cyzanfar,perceptron
+0.6911,N/A,have-to-land,ivy-yue|shakingkelly,perceptron
 0.6899,N/A,nlp-r-s,ryanfarr01|shainedl,perceptron
+0.6737,N/A,have-to-land,ivy-yue|shakingkelly,maxent
 0.6701,N/A,team,StevenWooooo|advaitapatel,perceptron
 0.6484,N/A,dot-product,marikacusick|trallen91,perceptron
 0.6020,N/A,pj-party,Joloh13|pkale,mlp
@@ -73,9 +76,6 @@ accuracy score,comment,team_name,members,method
 0.0522,N/A,weak-derivatives,anthonytec2|bzelditch,mlp
 0.0522,N/A,pj-party,Joloh13|pkale,maxent
 0.0501,N/A,lang,anastasisbele|ccweaver1|cyzanfar,maxent
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,maxent
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,mlp
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,perceptron
 0.0000,Err for main2/default,nonlinear-programming,Sunnah|migunasekera,mlp
 0.0000,Err for main2/default,nonlinear-programming,Sunnah|migunasekera,perceptron
 0.0000,N/A,devon-richard,dwb264|richardqhill,maxent
