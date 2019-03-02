@@ -4,10 +4,13 @@ accuracy score,comment,team_name,members,method
 0.8553,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,maxent
 0.8546,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,mlp
 0.8526,N/A,despacitos,dhachuel|lsharir,perceptron
+0.8428,N/A,have-to-land,ivy-yue|shakingkelly,mlp
 0.8424,N/A,team,StevenWooooo|advaitapatel,mlp
 0.8365,N/A,we-ve-kissed,SteffenBerlin|et435,mlp
+0.8354,N/A,have-to-land,ivy-yue|shakingkelly,perceptron
 0.8351,N/A,despacitos,dhachuel|lsharir,maxent
 0.8344,N/A,salty_fish,wrymax|ziyuqiu,perceptron
+0.8340,N/A,have-to-land,ivy-yue|shakingkelly,maxent
 0.8333,N/A,jbit,irenetung|jillianjmb,mlp
 0.8302,N/A,too-hard-to-choose-a-name,rrrainbowww|zhihao-liu,maxent
 0.8298,N/A,nlp-johnny-keith,johnnykwwang|keithyuck,perceptron
@@ -76,7 +79,4 @@ accuracy score,comment,team_name,members,method
 0.1723,N/A,nlp19,rh443453518|ys838,mlp
 0.1723,N/A,weak-derivatives,anthonytec2|bzelditch,mlp
 0.1723,N/A,pj-party,Joloh13|pkale,maxent
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,maxent
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,mlp
-0.0000,Err for main/default,have-to-land,ivy-yue|shakingkelly,perceptron
 0.0000,Err for main2/default,nonlinear-programming,Sunnah|migunasekera,mlp
